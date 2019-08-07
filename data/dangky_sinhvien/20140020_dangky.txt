@@ -1,0 +1,5 @@
+91633    | MI1140  | D3-304  | 15h05 | 17h35 | THUHAI     | TC                  
+91639    | MIL1110 | D3-305  | 12h30 | 15h00 | THUSAU     | TC                  
+91608    | IT4099  | TC-304  | 6h45  | 9h15  | THUSAU     | TC                  
+91612    | IT4050  | TC-405  | 6h45  | 10h05 | THUHAI     | TC                  
+91616    | IT4130  | TC-502  | 9h20  | 11h50 | THUNAM     | TC                  

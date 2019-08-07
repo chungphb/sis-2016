@@ -1,0 +1,60 @@
+MI1110     | Giải tích 1                              | 4  | 0.7 | null       | DC        
+MI1140     | Đại số                                   | 4  | 0.7 | null       | DC        
+MI1120     | Giải tích 2                              | 3  | 0.7 | MI1110     | DC        
+MI1130     | Giải tích 3                              | 3  | 0.7 | MI1110     | DC        
+MI2010     | Phương pháp tính                         | 2  | 0.7 | null       | CN - TT   
+MI2020     | Xác suất thống kê                        | 3  | 0.7 | null       | DC        
+SSH1110    | Những NLCB của CNML I                    | 2  | 0.7 | null       | DC        
+SSH1120    | Những NLCB của CNML II                   | 3  | 0.7 | null       | DC        
+SSH1050    | Tư tưởng HCM                             | 2  | 0.7 | SSH1120    | DC        
+SSH1130    | Đường lối CM của ĐCSVN                   | 3  | 0.7 | SSH1050    | DC        
+SSH1110    | Lịch sử Đảng CSVN                        | 2  | 0.7 | null       | CN - LLCT 
+SSH1170    | Pháp luật đại cương                      | 2  | 0.7 | null       | DC        
+PH1110     | Vật lý I                                 | 3  | 0.7 | null       | DC        
+PH1120     | Vật lý II                                | 3  | 0.7 | null       | DC        
+PH1130     | Vật lý III                               | 2  | 0.7 | null       | DC        
+PH3010     | Phương pháp toán cho vật lý              | 3  | 0.7 | null       | CN - VLKT 
+PH3020     | Cơ giải tích                             | 2  | 0.7 | null       | CN - VLKT 
+PH3030     | Trường điện từ                           | 3  | 0.7 | null       | CN - VLKT 
+EM1010     | Quản trị học đại cương                   | 2  | 0.7 | null       | DC        
+EM3170     | Văn hóa kinh doanh                       | 3  | 0.7 | null       | CN - KTQL 
+EM3100     | Kinh tế học vi mô                        | 3  | 0.7 | null       | CN - KTQL 
+EM3110     | Kinh tế học vĩ mô                        | 3  | 0.7 | null       | CN - KTQL 
+EM3020     | Anh văn kinh tế                          | 2  | 0.7 | null       | CN - KTQL 
+ED3110     | Tâm lý học                               | 4  | 0.7 | null       | CN - KTQL 
+MIL1110    | Đường lối quân sự                        | 0  | 0.7 | null       | DC        
+MIL1120    | Công tác quốc phòng - an ninh            | 0  | 0.7 | null       | DC        
+MIL1130    | QS chung và KCT bắn súng AK              | 0  | 0.7 | null       | DC        
+PE1010     | Giáo dục thể chất A                      | 0  | 0.8 | null       | DC        
+PE1020     | Giáo dục thể chất B                      | 0  | 0.8 | null       | DC        
+PE1030     | Giáo dục thể chất C                      | 0  | 0.8 | null       | DC        
+PE2010     | Giáo dục thể chất D                      | 0  | 0.8 | null       | DC        
+PE2020     | Giáo dục thể chất E                      | 0  | 0.8 | null       | DC        
+IT2000     | Nhập môn CNTT và TT                      | 3  | 0.5 | null       | CN - CNTT 
+IT1110     | Tin học đại cương                        | 4  | 0.6 | null       | DC        
+IT3010     | Cấu trúc dữ liệu và giải thuật           | 3  | 0.7 | null       | CN - CNTT 
+IT3020     | Toán rời rạc                             | 3  | 0.7 | null       | CN - CNTT 
+IT3040     | Kỹ thuật lập trình                       | 2  | 0.7 | IT1110     | CN - CNTT 
+IT3080     | Mạng máy tính                            | 3  | 0.7 | IT2000     | CN - CNTT 
+IT3090     | Cơ sở dữ liệu                            | 3  | 0.7 | IT3010     | CN - CNTT 
+IT3100     | Lập trình hướng đối tượng                | 2  | 0.7 | IT3040     | CN - CNTT 
+IT3910     | Project 1                                | 3  | 0.7 | null       | CN - CNTT 
+IT4991     | Thực tập kỹ thuật                        | 3  | 0.5 | null       | CN - CNTT 
+IT4020     | Nhập môn lý thuyết tính toán             | 3  | 0.7 | null       | CN - KHMT 
+IT4050     | Thiết kế và phân tích thuật toán         | 3  | 0.6 | null       | CN - KHMT 
+IT4079     | Ngôn ngữ và phương pháp dịch             | 2  | 0.6 | null       | CN - KHMT 
+IT4130     | Lập trình song song                      | 2  | 0.7 | null       | CN - KHMT 
+IT4777     | Hình học tính toán                       | 3  | 0.7 | null       | CN - KHMT 
+IT5210     | Đồ án tốt nghiệp kỹ sư (KHMT)            | 12 | 0.5 | null       | CN - KHMT 
+IT4440     | Tương tác Người – Máy                    | 3  | 0.7 | null       | CN - CNPM 
+IT4460     | Phân tích yêu cầu phần mềm               | 2  | 0.7 | null       | CN - CNPM 
+IT4490     | Thiết kế và xây dựng phần mềm            | 3  | 0.7 | null       | CN - CNPM 
+IT4530     | Kỹ năng lập báo cáo kỹ thuật và Dự án    | 1  | 0.7 | null       | CN - CNPM 
+IT4541     | Quản lý dự án phần mềm                   | 2  | 0.6 | null       | CN - CNPM 
+IT5240     | Đồ án tốt nghiệp kỹ sư (CNPM)            | 12 | 0.5 | null       | CN - CNPM 
+IT4060     | Lập trình mạng                           | 2  | 0.6 | IT3080     | CN - KTMT 
+IT4160     | Vi xử lý                                 | 3  | 0.6 | null       | CN - KTMT 
+IT4210     | Hệ nhúng                                 | 3  | 0.6 | IT4160     | CN - KTMT 
+IT4815     | Quản trị mạng                            | 3  | 0.6 | null       | CN - KTMT 
+IT4099     | Xử lý ảnh                                | 3  | 0.7 | null       | CN - KTMT 
+IT5220     | Đồ án tốt nghiệp kỹ sư (KTMT)            | 12 | 0.5 | null       | CN - KTMT 

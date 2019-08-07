@@ -1,0 +1,83 @@
+20140001   | Bùi Thái An          | 25-09-1996 | Nam | Đồng Xuân - Hoàn Kiếm - Hà Nội           | Cơ khí                              | KTCDT      | Cơ điện tử 1 K59         
+20140002   | Lê Đức Anh           | 25-08-1996 | Nam | Bến Thủy - TP. Vinh - Nghệ An            | Cơ khí                              | KSTN_CDT   | KSTN - Cơ điện tử K59    
+20140003   | Lê Tuấn Anh          | 05-08-1996 | Nam | Bà Triệu - TP. Nam Định - Nam Định       | CNSH và CNTP                        | CNTP       | Thực phẩm 2 K59          
+20140004   | Dương Ngọc Anh       | 10-08-1996 | Nữ  | Quỳnh Giao - Quỳnh Phụ - Thái Bình       | Ngoại ngữ                           | TA_KHKTVCN | TA1.03 K59               
+20140005   | Huỳnh Thái Bảo       | 16-04-1996 | Nam | Hưng Bình - TP. Vinh - Nghệ An           | Công nghệ Thông tin và Truyền thông | CNTT       | CNTT1-2 K59              
+20140006   | Vũ Thái Bảo          | 01-08-1996 | Nam | Phố Huế - Hai Bà Trưng - Hà Nội          | Cơ khí                              | CTTT_CDT   | CTTT-Cơ điện tử K59      
+20140007   | Nguyễn Văn Bình      | 21-09-1996 | Nam | Lê Lợi - TP. Vinh - Nghệ An              | Cơ khí                              | KTCDT      | Cơ điện tử 1 K59         
+20140008   | Nguyễn Ngọc Hoài Chi | 25-12-1996 | Nữ  | Nghi Trạch - Nghi Lộc - Nghệ An          | Công nghệ Thông tin và Truyền thông | CNTT       | CNTT2-2 K59              
+20140009   | Trương Bảo Chính     | 12-08-1996 | Nam | Hạ Long - TP. Thái Bình - Thái Bình      | Công nghệ Thông tin và Truyền thông | KSTN_CNTT  | KSTN - CNTT K59          
+20140010   | Nguyễn Thái Công     | 16-09-1996 | Nam | Dịch Vọng - Cầu Giấy - Hà Nội            | Cơ khí                              | KTCDT      | Cơ điện tử 2 K59         
+20140011   | Vũ Thị Ngọc Diệu     | 27-10-1996 | Nữ  | Bảo Thành - Yên Thành - Nghệ An          | CNSH và CNTP                        | CNTP       | Thực phẩm 1 K59          
+20140012   | Trương Thị Thùy Dung | 01-01-1996 | Nữ  | An Khê - Quỳnh Phụ - Thái Bình           | Cơ khí                              | KTCDT      | Cơ điện tử 1 K59         
+20140013   | Nguyễn Trọng Đại     | 26-11-1996 | Nam | Nam Cơ - Tiền Hải - Thái Bình            | CNSH và CNTP                        | CNTP       | Thực phẩm 2 K59          
+20140014   | Vũ Văn Đạt           | 12-08-1996 | Nam | Tiến Thành - Yên Thành - Nghệ An         | Công nghệ Thông tin và Truyền thông | CNTT       | CNTT1-2 K59              
+20140015   | Huỳnh Ngọc Đức       | 16-01-1996 | Nam | An Hòa - Quỳnh Lưu - Nghệ An             | Công nghệ Thông tin và Truyền thông | KSCLC_HTTT | KSCLC HTTT & TT K59      
+20140016   | Nguyễn Tài Em        | 21-04-1996 | Nam | Quang Trung - Kiến Xương - Thái Bình     | Cơ khí                              | KTCDT      | Cơ điện tử 1 K59         
+20140017   | Lê Văn Giang         | 01-10-1996 | Nam | Nghi Tiến - Nghi Lộc - Nghệ An           | Công nghệ Thông tin và Truyền thông | CNTT       | CNTT2-1 K59              
+20140018   | Trịnh Thị Thu Giang  | 27-06-1996 | Nữ  | An Ninh - Tiền Hải - Thái Bình           | Cơ khí                              | KTCDT      | Cơ điện tử 1 K59         
+20140019   | Nguyễn Đức Hải       | 01-08-1996 | Nam | Quang Trung - TP. Nam Định - Nam Định    | Công nghệ Thông tin và Truyền thông | CNTT       | CNTT2-1 K59              
+20140020   | Nguyễn Ngọc Hải      | 27-12-1996 | Nam | An Lễ - Quỳnh Phụ - Thái Bình            | Công nghệ Thông tin và Truyền thông | CNTT       | CNTT2-2 K59              
+20140021   | Trần Trung Hiếu      | 28-08-1996 | Nam | Nghĩa Đồng - Nghĩa Hưng - Nam Định       | CNSH và CNTP                        | CNTP       | Thực phẩm 3 K59          
+20140022   | Trần Trung Hiếu      | 07-05-1996 | Nam | Quang Trung - TP. Thái Bình - Thái Bình  | Công nghệ Thông tin và Truyền thông | CNTT       | CNTT1-2 K59              
+20140023   | Nguyễn Ngọc Hoa      | 21-02-1996 | Nữ  | Bạch Mai - Hai Bà Trưng - Hà Nội         | Công nghệ Thông tin và Truyền thông | KSTN_CNTT  | KSTN - CNTT K59          
+20140024   | Vũ Thị Hoài          | 24-12-1996 | Nữ  | Khương Mai - Thanh Xuân - Hà Nội         | Công nghệ Thông tin và Truyền thông | KSTN_CNTT  | KSTN - CNTT K59          
+20140025   | Lê Văn Hùng          | 08-05-1996 | Nam | Giao Hà - Giao Thủy - Nam Định           | Công nghệ Thông tin và Truyền thông | CNTT       | CNTT2-2 K59              
+20140026   | Nguyễn Ngọc Hùng     | 16-03-1996 | Nam | Cửa Nam - TP. Nam Định - Nam Định        | Cơ khí                              | KSTN_CDT   | KSTN - Cơ điện tử K59    
+20140027   | Vũ Thị Hương         | 17-09-1996 | Nữ  | Phương Liệt - Thanh Xuân - Hà Nội        | Ngoại ngữ                           | TACNQT     | TA2.02 K59               
+20140028   | Phạm Thị Bích Hường  | 21-06-1996 | Nữ  | Trung Thành - Yên Thành - Nghệ An        | Cơ khí                              | KTCDT      | Cơ điện tử 2 K59         
+20140029   | Nguyễn Văn Khánh     | 27-11-1996 | Nam | Cửa Nam - Hoàn Kiếm - Hà Nội             | Cơ khí                              | CTTT_CDT   | CTTT-Cơ điện tử K59      
+20140030   | Phan Văn Khánh       | 08-11-1996 | Nam | Trần Hưng Đạo - Hoàn Kiếm - Hà Nội       | Cơ khí                              | KTCDT      | Cơ điện tử 3 K59         
+20140031   | Phan Trọng Khánh     | 09-12-1996 | Nam | Nghĩa Đô - Cầu Giấy - Hà Nội             | Ngoại ngữ                           | TACNQT     | TA2.01 K59               
+20140032   | Nguyễn Lê Bảo Linh   | 29-12-1996 | Nữ  | Nguyễn Du - TP. Nam Định - Nam Định      | CNSH và CNTP                        | CNTP       | Thực phẩm 1 K59          
+20140033   | Nguyễn Thị Thùy Linh | 11-07-1996 | Nữ  | Tràng Tiền - Hoàn Kiếm - Hà Nội          | Ngoại ngữ                           | TA_KHKTVCN | TA1.01 K59               
+20140034   | Trần Hải Linh        | 16-08-1996 | Nam | Nghĩa Sơn - Nghĩa Hưng - Nam Định        | Công nghệ Thông tin và Truyền thông | CNTT       | CNTT2-2 K59              
+20140035   | Võ Diệu Linh         | 09-12-1996 | Nữ  | Khương Trung - Thanh Xuân - Hà Nội       | Công nghệ Thông tin và Truyền thông | CNTT       | CNTT2-3 K59              
+20140036   | Trịnh Thị Loan       | 26-12-1996 | Nữ  | Dịch Vọng Hậu - Cầu Giấy - Hà Nội        | Công nghệ Thông tin và Truyền thông | KSCLC_HTTT | KSCLC HTTT & TT K59      
+20140037   | Lê Hoàng Long        | 09-01-1996 | Nam | Hải Phong - Hải Hậu - Nam Định           | Cơ khí                              | KSTN_CDT   | KSTN - Cơ điện tử K59    
+20140038   | Lê Thị Hiền Lương    | 25-11-1996 | Nữ  | Nghi Công Bắc - Nghi Lộc - Nghệ An       | Ngoại ngữ                           | TACNQT     | TA2.02 K59               
+20140039   | Lê Thị Lý            | 09-11-1996 | Nữ  | Lê Lợi - Kiến Xương - Thái Bình          | CNSH và CNTP                        | CNTP       | Thực phẩm 2 K59          
+20140040   | Nguyễn Thị Mai       | 01-09-1996 | Nữ  | Vĩnh Thành - Yên Thành - Nghệ An         | CNSH và CNTP                        | CNTP       | Thực phẩm 1 K59          
+20140041   | Nguyễn Duy Mạnh      | 31-12-1996 | Nam | Yên Hòa - Cầu Giấy - Hà Nội              | Công nghệ Thông tin và Truyền thông | CNTT       | CNTT2-1 K59              
+20140042   | Lê Thị Hồng Mến      | 24-09-1996 | Nữ  | Quỳnh Long - Quỳnh Lưu - Nghệ An         | Ngoại ngữ                           | TA_KHKTVCN | TA1.02 K59               
+20140043   | Nguyễn Hải Minh      | 13-08-1996 | Nam | Hòa Bình - Kiến Xương - Thái Bình        | Công nghệ Thông tin và Truyền thông | KSTN_CNTT  | KSTN - CNTT K59          
+20140044   | Vũ Minh              | 21-05-1996 | Nam | Quỳnh Lâm - Quỳnh Phụ - Thái Bình        | Công nghệ Thông tin và Truyền thông | KSCLC_HTTT | KSCLC HTTT & TT K59      
+20140045   | Dương Ngọc Nam       | 02-10-1996 | Nam | Hà Huy Tập - TP. Vinh - Nghệ An          | Công nghệ Thông tin và Truyền thông | KSCLC_HTTT | KSCLC HTTT & TT K59      
+20140046   | Nguyễn Hải Nam       | 25-10-1996 | Nam | Khương Đình - Thanh Xuân - Hà Nội        | Cơ khí                              | KTCDT      | Cơ điện tử 3 K59         
+20140047   | Thái Văn Nam         | 27-09-1996 | Nam | Nam Điền - Nghĩa Hưng - Nam Định         | Cơ khí                              | KSTN_CDT   | KSTN - Cơ điện tử K59    
+20140048   | Vũ Văn Nam           | 16-07-1996 | Nam | Minh Khai - Hai Bà Trưng - Hà Nội        | CNSH và CNTP                        | CNTP       | Thực phẩm 2 K59          
+20140049   | Phạm Thị Nhi         | 14-10-1996 | Nữ  | Xuân Thành - Yên Thành - Nghệ An         | Ngoại ngữ                           | TACNQT     | TA2.02 K59               
+20140050   | Nguyễn Thị Ngọc Nhi  | 05-01-1996 | Nữ  | Nghi Vạn - Nghi Lộc - Nghệ An            | Công nghệ Thông tin và Truyền thông | CNTT       | CNTT2-3 K59              
+20140051   | Hồ Thị Oanh          | 02-08-1996 | Nữ  | Tiền Phong - TP. Thái Bình - Thái Bình   | Công nghệ Thông tin và Truyền thông | KSCLC_HTTT | KSCLC HTTT & TT K59      
+20140052   | Dương Văn Phú        | 21-12-1996 | Nam | Quỳnh Đôi - Quỳnh Lưu - Nghệ An          | Ngoại ngữ                           | TA_KHKTVCN | TA1.01 K59               
+20140053   | Nguyễn Thiên Phú     | 27-02-1996 | Nam | Mai Dịch - Cầu Giấy - Hà Nội             | Cơ khí                              | CTTT_CDT   | CTTT-Cơ điện tử K59      
+20140054   | Nguyễn Ngọc Phụng    | 13-09-1996 | Nam | Nghĩa Lạc - Nghĩa Hưng - Nam Định        | Công nghệ Thông tin và Truyền thông | CNTT       | CNTT2-3 K59              
+20140055   | Nguyễn Mai Phương    | 22-07-1996 | Nữ  | Tây Tiến - Tiền Hải - Thái Bình          | CNSH và CNTP                        | CNTP       | Thực phẩm 2 K59          
+20140056   | Dương Đức Quang      | 29-08-1996 | Nam | Quỳnh Sơn - Quỳnh Phụ - Thái Bình        | Cơ khí                              | CTTT_CDT   | CTTT-Cơ điện tử K59      
+20140057   | Lê Hồng Quang        | 31-10-1996 | Nam | Hải Bắc - Hải Hậu - Nam Định             | Ngoại ngữ                           | TACNQT     | TA2.02 K59               
+20140058   | Hồ Văn Quyết         | 02-09-1996 | Nam | Bạch Đằng - Hai Bà Trưng - Hà Nội        | CNSH và CNTP                        | CNTP       | Thực phẩm 3 K59          
+20140059   | Trần Trúc Quỳnh      | 14-07-1996 | Nữ  | Hải Phú - Hải Hậu - Nam Định             | Ngoại ngữ                           | TACNQT     | TA2.03 K59               
+20140060   | Nguyễn Sang          | 28-11-1996 | Nam | Hạ Long - TP. Nam Định - Nam Định        | Cơ khí                              | KTCDT      | Cơ điện tử 1 K59         
+20140061   | Lê Văn Sơn           | 07-08-1996 | Nam | Phan Chu Trinh - Hoàn Kiếm - Hà Nội      | Cơ khí                              | KSTN_CDT   | KSTN - Cơ điện tử K59    
+20140062   | Trần Ngọc Sơn        | 27-07-1996 | Nam | Tiến Thủy - Quỳnh Lưu - Nghệ An          | Cơ khí                              | KTCDT      | Cơ điện tử 2 K59         
+20140063   | Dương Văn Thái       | 09-09-1996 | Nam | Giao Long - Giao Thủy - Nam Định         | CNSH và CNTP                        | CNTP       | Thực phẩm 2 K59          
+20140064   | Đào Thị Thanh        | 05-04-1996 | Nữ  | Bùi Thị Xuân - Hai Bà Trưng - Hà Nội     | Công nghệ Thông tin và Truyền thông | CNTT       | CNTT1-2 K59              
+20140065   | Lê Thị Thanh         | 16-03-1996 | Nữ  | Hưng Hòa - TP. Vinh - Nghệ An            | CNSH và CNTP                        | CNTP       | Thực phẩm 1 K59          
+20140066   | Nguyễn Việt Tiến     | 28-02-1996 | Nam | Hạ Đình - Thanh Xuân - Hà Nội            | Cơ khí                              | KTCDT      | Cơ điện tử 3 K59         
+20140067   | Phan Đức Tiến        | 09-11-1996 | Nam | Giao Châu - Giao Thủy - Nam Định         | Ngoại ngữ                           | TA_KHKTVCN | TA1.02 K59               
+20140068   | Hồ Văn Toàn          | 04-12-1996 | Nam | Đông Hà - Tiền Hải - Thái Bình           | Ngoại ngữ                           | TACNQT     | TA2.02 K59               
+20140069   | Nguyễn Thái Toàn     | 31-10-1996 | Nam | Hải Vân - Hải Hậu - Nam Định             | Cơ khí                              | KTCDT      | Cơ điện tử 2 K59         
+20140070   | Nguyễn Thị Trang     | 02-09-1996 | Nữ  | An Bồi - Kiến Xương - Thái Bình          | Ngoại ngữ                           | TACNQT     | TA2.01 K59               
+20140071   | Võ Hồ Bảo Trang      | 14-07-1996 | Nữ  | Quỳnh Lương - Quỳnh Lưu - Nghệ An        | Công nghệ Thông tin và Truyền thông | CNTT       | CNTT1-2 K59              
+20140072   | Nguyễn Trung         | 28-11-1996 | Nam | Giao Xuân - Giao Thủy - Nam Định         | Cơ khí                              | KTCDT      | Cơ điện tử 3 K59         
+20140073   | Nguyễn Ngọc Trung    | 27-07-1996 | Nam | Giao Lạc - Giao Thủy - Nam Định          | Ngoại ngữ                           | TACNQT     | TA2.02 K59               
+20140074   | Trần Đức Tuấn        | 11-05-1996 | Nam | Quang Trung - TP. Thái Bình - Thái Bình  | Cơ khí                              | CTTT_CDT   | CTTT-Cơ điện tử K59      
+20140075   | Lê Bảo Uyên          | 09-09-1996 | Nữ  | Kỳ Bá - TP. Thái Bình - Thái Bình        | CNSH và CNTP                        | CNTP       | Thực phẩm 1 K59          
+20140076   | Nguyễn Bảo Uyên      | 15-09-1996 | Nữ  | Nghi Công Nam - Nghi Lộc - Nghệ An       | Công nghệ Thông tin và Truyền thông | KSTN_CNTT  | KSTN - CNTT K59          
+20140077   | Trần Ngọc Vi         | 05-04-1996 | Nữ  | Nam Cao - Kiến Xương - Thái Bình         | Ngoại ngữ                           | TACNQT     | TA2.02 K59               
+20140078   | Đỗ Đức Vượng         | 16-03-1996 | Nam | Hải An - Hải Hậu - Nam Định              | Cơ khí                              | KTCDT      | Cơ điện tử 2 K59         
+20140079   | Dương Thị Hồng Xuân  | 28-02-1996 | Nữ  | Vũ Lăng - Tiền Hải - Thái Bình           | CNSH và CNTP                        | CNTP       | Thực phẩm 3 K59          
+20140080   | Nguyễn Hải Yến       | 09-11-1996 | Nữ  | Nghĩa Lợi - Nghĩa Hưng - Nam Định        | CNSH và CNTP                        | CNTP       | Thực phẩm 2 K59          
+1          | 2                    | 10-08-1996 | Nam | Haf Nooij                                | s                                   | KHMT       | CNTT2.1                  
+12000      | 2                    | 10-08-1996 | Nam | Haf Nooij                                | s                                   | KHMT       | CNTT2.1                  
+20142745   | vu cong luat         | 07-05-1996 | Nam | Thái Bình                                | Công Nghệ Thông Tin                 | HTTT       | CNTT2.03                 

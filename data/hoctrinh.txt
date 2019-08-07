@@ -1,0 +1,42 @@
+MI1110     | Giải tích 1                              | 5  | 0.7 | null       | CHUA_PHAN  |  1
+MI1140     | Đại số                                   | 5  | 0.7 | null       | CHUA_PHAN  |  1
+SSH1110    | Những NLCB của CNML I                    | 3  | 0.7 | null       | CHUA_PHAN  |  1
+PH1110     | Vật lý I                                 | 4  | 0.7 | null       | CHUA_PHAN  |  1
+EM1010     | Quản trị học đại cương                   | 3  | 0.7 | null       | CHUA_PHAN  |  1
+MIL1110    | Đường lối quân sự                        | 0  | 0.7 | null       | CHUA_PHAN  |  1
+PE1010     | Giáo dục thể chất A                      | 0  | 0.8 | null       | CHUA_PHAN  |  1
+MI1120     | Giải tích 2                              | 4  | 0.7 | null       | CHUA_PHAN  |  2
+MI1130     | Giải tích 3                              | 4  | 0.7 | null       | CHUA_PHAN  |  2
+SSH1120    | Những NLCB của CNML II                   | 4  | 0.7 | null       | CHUA_PHAN  |  2
+PH1120     | Vật lý II                                | 4  | 0.7 | null       | CHUA_PHAN  |  2
+MIL1120    | Công tác quốc phòng - an ninh            | 0  | 0.7 | null       | CHUA_PHAN  |  2
+PE1020     | Giáo dục thể chất B                      | 0  | 0.8 | null       | CHUA_PHAN  |  2
+MI2020     | Xác suất thống kê                        | 4  | 0.7 | null       | CHUA_PHAN  |  3
+SSH1050    | Tư tưởng HCM                             | 3  | 0.7 | null       | CHUA_PHAN  |  3
+PH1130     | Vật lý III                               | 3  | 0.7 | null       | CHUA_PHAN  |  3
+MIL1130    | QS chung và KCT bắn súng AK              | 0  | 0.7 | null       | CHUA_PHAN  |  3
+PE1030     | Giáo dục thể chất C                      | 0  | 0.8 | null       | CHUA_PHAN  |  3
+IT2000     | Nhập môn CNTT và TT                      | 4  | 0.5 | null       | KSTN_CNTT  |  3
+IT1110     | Tin học đại cương                        | 5  | 0.6 | null       | CHUA_PHAN  |  3
+SSH1130    | Đường lối CM của ĐCSVN                   | 4  | 0.7 | null       | CHUA_PHAN  |  4
+IT3010     | Cấu trúc dữ liệu và giải thuật           | 4  | 0.7 | null       | KSTN_CNTT  |  4
+IT3020     | Toán rời rạc                             | 4  | 0.7 | null       | KSTN_CNTT  |  4
+IT3040     | Kỹ thuật lập trình                       | 3  | 0.7 | null       | KSTN_CNTT  |  4
+PE2010     | Giáo dục thể chất D                      | 0  | 0.8 | null       | CHUA_PHAN  |  4
+IT3080     | Mạng máy tính                            | 4  | 0.7 | null       | KSTN_CNTT  |  5
+IT3090     | Cơ sở dữ liệu                            | 4  | 0.7 | null       | KSTN_CNTT  |  5
+IT3100     | Lập trình hướng đối tượng                | 3  | 0.7 | null       | KSTN_CNTT  |  5
+IT3910     | Project 1                                | 4  | 0.7 | null       | KSTN_CNTT  |  5
+IT4991     | Thực tập kỹ thuật                        | 4  | 0.5 | null       | KSTN_CNTT  |  5
+PE2020     | Giáo dục thể chất E                      | 0  | 0.8 | null       | CHUA_PHAN  |  5
+IT4050     | Thiết kế và phân tích thuật toán         | 4  | 0.6 | null       | KSTN_CNTT  |  6
+IT4079     | Ngôn ngữ và phương pháp dịch             | 3  | 0.6 | null       | KSTN_CNTT  |  6
+IT4130     | Lập trình song song                      | 3  | 0.7 | null       | KSTN_CNTT  |  6
+IT4777     | Hình học tính toán                       | 4  | 0.7 | null       | KSTN_CNTT  |  6
+IT4490     | Thiết kế và xây dựng phần mềm            | 4  | 0.7 | null       | KSTN_CNTT  |  6
+IT4541     | Quản lý dự án phần mềm                   | 3  | 0.6 | null       | KSTN_CNTT  |  6
+IT4060     | Lập trình mạng                           | 3  | 0.6 | null       | KSTN_CNTT  |  6
+IT4210     | Hệ nhúng                                 | 4  | 0.6 | null       | KSTN_CNTT  |  6
+IT4815     | Quản trị mạng                            | 4  | 0.6 | null       | KSTN_CNTT  |  6
+IT4099     | Xử lý ảnh                                | 4  | 0.7 | null       | KSTN_CNTT  |  6
+IT5220     | Đồ án tốt nghiệp kỹ sư (KSTN));          | 12 | 0.5 | null       | KSTN_CNTT  |  7
