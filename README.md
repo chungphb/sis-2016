@@ -10,6 +10,6 @@
 - **gui:** Tập các lớp thiết lập giao diện người dùng.
 - **main:** Tập các lớp xử lý dữ liệu đầu vào/đầu ra của hệ thống.
 - **svclass:** Tập các lớp lưu trữ thông tin chung của hệ thống. 
-- **svnc:** Tập các lớp lưu trữ thông tin ứng với sinh viên hệ niên chế.
-- **svcn:** Tập các lớp lưu trữ thông tin ứng với sinh viên hệ tín chỉ.
+- **svnc:** Tập các lớp lưu trữ thông tin ứng với hệ niên chế.
+- **svtc:** Tập các lớp lưu trữ thông tin ứng với hệ tín chỉ.
 - **users:** Tập các lớp lưu trữ thông tin những nhóm người dùng khác nhau của hệ thống. 
